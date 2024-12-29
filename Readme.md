@@ -31,7 +31,7 @@ GitHub上に置かれたファイルは：
 .....となっています。  
   
 EFINIX Xyloni評価ボード  
-![](Files/xyloni-board-top.jpg)
+![](xyloni-board-top.jpg)
 
   
 
