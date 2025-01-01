@@ -12,7 +12,7 @@ Sapphire-SoCと呼ばれるRISC-VコアをFPGAで構築し、評価ボード上�
 設計ツールの操作に関してはコアスタッフ社（オンライン半導体商社）のWeb上にドキュメントを  
 置いています。これに従って入力すれば、ここに置かれたのと同じデザインが作成できる  
 はずです：
-
+https://www.zaikostore.com/zaikostore/special/EFINIX
   
 
 ドキュメントでは開発ツールEfinityのバージョン2023.2を使用していますが、GitHubに
